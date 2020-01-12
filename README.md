@@ -1,4 +1,5 @@
-# P1FEMtut
-This is 1st roder finite element matlab code for classical PDEs in 2D, just used for the purpose of tutorial
+# P1FEM
+This is 1st roder finite element matlab code for classical PDEs in 2D，
+which is only used for demonstrating of FEM Solver 
 
-# Under construction ... 
+# Furture plan
